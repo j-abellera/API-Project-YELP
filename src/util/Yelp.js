@@ -22,6 +22,5 @@ export const Yelp = {
                     return responseArray;
                 }
             })
-        
     }
 };
